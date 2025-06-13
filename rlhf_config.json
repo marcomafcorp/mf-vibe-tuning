@@ -1,0 +1,6 @@
+{
+  "objective": "Reward helpful, harmless, and honest completions.",
+  "reward_model": "simple_comparison",
+  "feedback_mechanism": "thumbs_up_down",
+  "evaluation_metrics": ["reward_score", "preference_accuracy"]
+}
